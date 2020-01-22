@@ -1,0 +1,9 @@
+server:
+  port: 80
+
+#配置Ribbon
+eureka:
+  client:
+    register-with-eureka: false   # false表示不用将自己注入到Eureka注册中心中
+    service-url:
+      defaultZone: http://eureka7001.com:7001/eureka/,http://eureka7002.com:7002/eureka/,http://eureka7003.com:7003/eureka/

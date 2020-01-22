@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="SpringCloud-03-MicroserviceCloud-api" />
+        <module name="SpringCloud-03-Provider-dept-8003" />
+        <module name="SpringCloud-03-Config-3344" />
+        <module name="SpringCloud-03-Provider-Hystrix-Dept-8001" />
+        <module name="SpringCloud-03-Zuul-GateWay-9527" />
+        <module name="SpringCloud-03-Consumer-Hystrix-Dashboard-9001" />
+        <module name="SpringCloud-03-Consumer-dept-80" />
+        <module name="SpringCloud-03-Provider-Hystrix-Dept-8002" />
+        <module name="SpringCloud-03-Provider-dept-8002" />
+        <module name="SpringCloud-03-Provider-dept-8001" />
+        <module name="SpringCloud-03-MicroserviceCloud-EurakeServer-eruka-7003" />
+        <module name="SpringCloud-03-MicroserviceCloud-EurakeServer-eruka-7002" />
+        <module name="SpringCloud-03-MicroserviceCloud-EurakeServer-eruka-7001" />
+        <module name="SpringCloud-03-Consumer-dept-Feign-80" />
+        <module name="SpringCloud-03-Provider-dept-Hystrix-8001" />
+        <module name="SpringClout-03-Provider-dept-Hystrix-8001" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="SpringCloud-03-Config-3344" target="1.8" />
+      <module name="SpringCloud-03-Consmer-dept-Feign-80" target="1.8" />
+      <module name="SpringCloud-03-Consumer-dept-80" target="1.8" />
+      <module name="SpringCloud-03-Consumer-dept-Feign-80" target="1.8" />
+      <module name="SpringCloud-03-Consumer-Hystrix-Dashboard-9001" target="1.8" />
+      <module name="SpringCloud-03-MicroserviceCloud" target="1.8" />
+      <module name="SpringCloud-03-MicroserviceCloud-api" target="1.8" />
+      <module name="SpringCloud-03-MicroserviceCloud-EurakeServer-eruka-7001" target="1.8" />
+      <module name="SpringCloud-03-MicroserviceCloud-EurakeServer-eruka-7002" target="1.8" />
+      <module name="SpringCloud-03-MicroserviceCloud-EurakeServer-eruka-7003" target="1.7" />
+      <module name="SpringCloud-03-Provider-dept-8001" target="1.8" />
+      <module name="SpringCloud-03-Provider-dept-8002" target="1.8" />
+      <module name="SpringCloud-03-Provider-dept-8003" target="1.8" />
+      <module name="SpringCloud-03-Provider-dept-Hystrix-8001" target="1.8" />
+      <module name="SpringCloud-03-Provider-Hystrix-Dept-8001" target="1.8" />
+      <module name="SpringCloud-03-Provider-Hystrix-Dept-8002" target="1.8" />
+      <module name="SpringCloud-03-Zuul-GateWay-9527" target="1.8" />
+      <module name="SpringClout-03-Provider-dept-Hystrix-8001" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="SpringCloud-03-MicroserviceCloud" options="" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,4 @@
+com\mzx\entity\Dept.class
+com\mzx\server\DeptServerFallBackFactory.class
+com\mzx\server\DeptServerFallBackFactory$1.class
+com\mzx\server\DeptServerFeign.class
